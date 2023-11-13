@@ -1,0 +1,137 @@
+UserID,Name,Email,CurrentJob,Industry,SkillID,SkillName,SkillLevel,YearsOfExperience,Certifications,PreferredLearningFormat,PreferredSkillCategories,CoursesCompleted,UserRating,ProjectHistory,Timestamp
+1,John Doe,john@example.com,Software Engineer,IT,1,Python,Advanced,5,Python Certification,Online,Programming,20,4.5,Web Development,2023-01-01
+1,John Doe,john@example.com,Software Engineer,IT,2,JavaScript,Intermediate,3,,Online,Web Development,15,4.2,Mobile App Development,2023-01-05
+1,John Doe,john@example.com,Software Engineer,IT,4,Machine Learning,Beginner,1,,Online,Data Science,8,4,Machine Learning Project,2023-02-15
+2,Jane Smith,jane@example.com,Data Analyst,Finance,1,Python,Intermediate,2,,Online,Data Science,10,4,Financial Modeling,2023-02-10
+2,Jane Smith,jane@example.com,Data Analyst,Finance,3,SQL,Beginner,1,SQL Certification,Books,Database Management,8,3.8,Data Analysis Project,2023-02-15
+2,Jane Smith,jane@example.com,Data Analyst,Finance,5,Data Visualization,Intermediate,2,,Online,Data Science,12,4.2,Dashboard Creation,2023-03-05
+3,Alice Johnson,alice@example.com,Web Developer,IT,2,JavaScript,Advanced,4,,Online,Web Development,18,4.7,E-commerce Website,2023-03-20
+3,Alice Johnson,alice@example.com,Web Developer,IT,6,HTML/CSS,Beginner,1,,Online,Web Development,10,4,Portfolio Website,2023-04-02
+4,Bob Wilson,bob@example.com,Database Administrator,IT,3,SQL,Advanced,6,SQL Certification,Books,Database Management,25,4.8,Database Optimization,2023-04-15
+4,Bob Wilson,bob@example.com,Database Administrator,IT,5,Data Modeling,Intermediate,3,,Online,Database Management,15,4.2,Database Design Project,2023-05-01
+5,Eva Brown,eva@example.com,UX/UI Designer,Design,7,User Interface Design,Beginner,1,,Online,Design,8,3.5,Mobile App Design,2023-05-15
+5,Eva Brown,eva@example.com,UX/UI Designer,Design,8,Prototyping,Intermediate,2,,Online,Design,12,4,Website Redesign,2023-06-01
+6,Sophie Miller,sophie@example.com,Network Engineer,IT,9,Network Security,Advanced,7,CISSP Certification,Online,Security,15,4.5,Firewall Configuration,2023-06-15
+6,Sophie Miller,sophie@example.com,Network Engineer,IT,10,Cisco Networking,Beginner,2,,Online,Networking,8,3.8,Network Infrastructure Upgrade,2023-07-01
+7,Michael Chang,michael@example.com,Data Scientist,Technology,4,Deep Learning,Intermediate,3,,Online,Data Science,12,4.2,Image Recognition Project,2023-07-15
+7,Michael Chang,michael@example.com,Data Scientist,Technology,11,R Programming,Advanced,4,R Certification,Books,Programming,18,4.7,Statistical Analysis,2023-08-01
+8,Lisa Turner,lisa@example.com,Software Developer,IT,12,Java,Beginner,1,,Online,Programming,10,4,Java Application Development,2023-08-15
+8,Lisa Turner,lisa@example.com,Software Developer,IT,13,Agile Development,Intermediate,2,,Online,Project Management,8,3.5,Agile Team Collaboration,2023-09-01
+9,David Wang,david@example.com,Database Analyst,IT,14,NoSQL Databases,Beginner,1,,Online,Database Management,8,3.8,NoSQL Implementation,2023-09-15
+9,David Wang,david@example.com,Database Analyst,IT,15,Database Administration,Advanced,5,Oracle Certification,Online,Database Management,20,4.5,Database Security,2023-10-01
+10,Emily White,emily@example.com,Systems Administrator,IT,16,Linux Administration,Intermediate,3,,Online,System Administration,12,4.2,Server Maintenance,2023-10-15
+10,Emily White,emily@example.com,Systems Administrator,IT,17,Virtualization,Beginner,1,,Online,Cloud Computing,8,3.5,Virtual Machine Deployment,2023-11-01
+11,Richard Brooks,richard@example.com,UI/UX Designer,Design,18,Graphic Design,Beginner,1,,Online,Design,10,4,Logo Design Project,2023-11-15
+11,Richard Brooks,richard@example.com,UI/UX Designer,Design,19,Usability Testing,Intermediate,2,,Online,Design,15,4.8,User Experience Improvement,2023-12-01
+12,Olivia Scott,olivia@example.com,Software Tester,IT,20,Software Testing,Beginner,1,,Online,Quality Assurance,8,3.5,Test Case Development,2023-12-15
+12,Olivia Scott,olivia@example.com,Software Tester,IT,21,Test Automation,Intermediate,2,,Online,Quality Assurance,12,4.2,Automated Testing Project,2024-01-01
+13,Chris Harris,chris@example.com,Frontend Developer,IT,22,ReactJS,Advanced,4,React Certification,Online,Web Development,18,4.7,React Web App,2024-01-15
+13,Chris Harris,chris@example.com,Frontend Developer,IT,23,Responsive Design,Intermediate,2,,Online,Web Development,12,4.2,Mobile Responsiveness,2024-02-01
+14,Samantha Lee,samantha@example.com,DevOps Engineer,IT,24,Docker,Beginner,1,,Online,DevOps,8,3.5,Containerization Project,2024-02-15
+14,Samantha Lee,samantha@example.com,DevOps Engineer,IT,25,Kubernetes,Intermediate,2,,Online,DevOps,15,4.8,Orchestration,2024-03-01
+15,Nathan Clark,nathan@example.com,Full Stack Developer,IT,26,Node.js,Beginner,1,,Online,Web Development,10,4,Node.js Project,2024-03-15
+15,Nathan Clark,nathan@example.com,Full Stack Developer,IT,27,Express.js,Intermediate,2,,Online,Web Development,12,4.2,API Development,2024-04-01
+16,Amy Rodriguez,amy@example.com,Machine Learning Engineer,Technology,28,Natural Language Processing,Advanced,3,,Online,Data Science,15,4.8,Text Classification Project,2024-04-15
+16,Amy Rodriguez,amy@example.com,Machine Learning Engineer,Technology,29,Scikit-Learn,Intermediate,2,,Online,Data Science,18,4.7,Machine Learning Models,2024-05-01
+17,Jeremy Miller,jeremy@example.com,Cybersecurity Analyst,IT,30,Ethical Hacking,Advanced,4,Certified Ethical Hacker,Online,Security,20,4.5,Security Penetration Testing,2024-05-15
+17,Jeremy Miller,jeremy@example.com,Cybersecurity Analyst,IT,31,Incident Response,Beginner,1,,Online,Security,12,4.2,Security Incident Handling,2024-06-01
+18,Lauren Turner,lauren@example.com,Cloud Solutions Architect,IT,32,Amazon AWS,Advanced,5,AWS Certified Solutions Architect,Online,Cloud Computing,25,4.8,Cloud Architecture Design,2024-06-15
+18,Lauren Turner,lauren@example.com,Cloud Solutions Architect,IT,33,Azure,Intermediate,3,,Online,Cloud Computing,18,4.7,Azure Migration Project,2024-07-01
+19,Mark Simmons,mark@example.com,Data Engineer,Technology,34,Apache Spark,Advanced,4,,Online,Big Data,15,4.5,Spark Data Processing,2024-07-15
+19,Mark Simmons,mark@example.com,Data Engineer,Technology,35,Hadoop,Beginner,1,,Online,Big Data,12,4.2,Hadoop Cluster Setup,2024-08-01
+20,Grace Taylor,grace@example.com,UI/UX Designer,Design,36,Wireframing,Beginner,1,,Online,Design,10,4,Wireframe Design Project,2024-08-15
+20,Grace Taylor,grace@example.com,UI/UX Designer,Design,37,User Persona Design,Intermediate,2,,Online,Design,15,4.8,User Research Project,2024-09-01
+21,Victor Chen,victor@example.com,Network Administrator,IT,38,CCNA Certification,Beginner,1,CCNA Certification,Books,Networking,8,3.5,Network Configuration,2024-09-15
+21,Victor Chen,victor@example.com,Network Administrator,IT,39,LAN/WAN,Intermediate,2,,Online,Networking,12,4.2,Network Optimization,2024-10-01
+22,Isabel Wong,isabel@example.com,Database Developer,IT,40,MySQL,Advanced,4,,Online,Database Management,20,4.5,MySQL Database Design,2024-10-15
+22,Isabel Wong,isabel@example.com,Database Developer,IT,41,Database Query Optimization,Intermediate,2,,Online,Database Management,18,4.7,SQL Query Tuning,2024-11-01
+23,Carlos Rodriguez,carlos@example.com,Software Engineer,IT,42,Angular,Advanced,4,,Online,Web Development,15,4.5,Angular Web App,2024-11-15
+23,Carlos Rodriguez,carlos@example.com,Software Engineer,IT,43,TypeScript,Intermediate,2,,Online,Programming,12,4.2,TypeScript Project,2024-12-01
+24,Ashley Baker,ashley@example.com,Data Scientist,Technology,44,Data Mining,Advanced,3,,Online,Data Science,18,4.7,Data Mining Research,2024-12-15
+24,Ashley Baker,ashley@example.com,Data Scientist,Technology,45,Statistical Modeling,Beginner,1,,Online,Data Science,10,4,Statistical Analysis Project,2025-01-01
+25,Jason Harris,jason@example.com,IT Manager,IT,46,IT Leadership,Advanced,6,IT Management Certification,Online,Management,25,4.8,IT Strategy Planning,2025-01-15
+25,Jason Harris,jason@example.com,IT Manager,IT,47,Budgeting,Intermediate,3,,Online,Management,15,4.2,Resource Allocation,2025-02-01
+26,Chloe Evans,chloe@example.com,Frontend Developer,IT,48,Vue.js,Beginner,1,,Online,Web Development,10,4,Vue.js Web App,2025-02-15
+26,Chloe Evans,chloe@example.com,Frontend Developer,IT,49,Frontend Performance Optimization,Intermediate,2,,Online,Web Development,12,4.2,Performance Tuning Project,2025-03-01
+27,Marcus Turner,marcus@example.com,Cloud Architect,IT,50,Google Cloud Platform,Advanced,4,GCP Certified Cloud Architect,Online,Cloud Computing,20,4.5,Cloud Infrastructure Design,2025-03-15
+27,Marcus Turner,marcus@example.com,Cloud Architect,IT,51,Cloud Security,Intermediate,2,,Online,Security,18,4.7,Cloud Security Implementation,2025-04-01
+28,Natalie Wright,natalie@example.com,Software Developer,IT,52,Python Web Frameworks,Beginner,1,,Online,Web Development,8,3.5,Web Framework Implementation,2025-04-15
+28,Natalie Wright,natalie@example.com,Software Developer,IT,53,RESTful APIs,Intermediate,2,,Online,Web Development,12,4.2,API Integration Project,2025-05-01
+29,Richard Foster,richard@example.com,Network Engineer,IT,54,Wireless Networking,Advanced,4,,Online,Networking,15,4.5,Wireless Infrastructure Setup,2025-05-15
+29,Richard Foster,richard@example.com,Network Engineer,IT,55,Network Troubleshooting,Beginner,1,,Online,Networking,10,4,Network Issue Resolution,2025-06-01
+30,Sophia Kim,sophia@example.com,Database Administrator,IT,56,Oracle Database,Advanced,5,Oracle Certification,Online,Database Management,25,4.8,Oracle Database Performance Tuning,2025-06-15
+30,Sophia Kim,sophia@example.com,Database Administrator,IT,57,Database Backup and Recovery,Intermediate,3,,Online,Database Management,18,4.7,Backup Strategy Implementation,2025-07-01
+31,Edward Stone,edward@example.com,IT Security Analyst,IT,58,Cybersecurity Best Practices,Advanced,4,,Online,Security,20,4.5,Cybersecurity Policy Development,2025-07-15
+31,Edward Stone,edward@example.com,IT Security Analyst,IT,59,Endpoint Security,Beginner,1,,Online,Security,15,4.2,Endpoint Protection Implementation,2025-08-01
+32,Ava Martinez,ava@example.com,UI/UX Designer,Design,60,Interaction Design,Intermediate,2,,Online,Design,12,4,Interactive Prototype Design,2025-08-15
+32,Ava Martinez,ava@example.com,UI/UX Designer,Design,61,Mobile App UI Design,Beginner,1,,Online,Design,8,3.5,Mobile App UI Redesign,2025-09-01
+33,Leo Thompson,leo@example.com,Software Engineer,IT,62,Flutter,Advanced,3,,Online,Mobile App Development,18,4.7,Flutter App Development,2025-09-15
+33,Leo Thompson,leo@example.com,Software Engineer,IT,63,Dart Programming,Beginner,1,,Online,Programming,12,4.2,Dart Language Project,2025-10-01
+34,Katherine Lee,katherine@example.com,Data Analyst,Finance,64,Power BI,Intermediate,2,,Online,Business Intelligence,15,4.5,Power BI Dashboard,2025-10-15
+34,Katherine Lee,katherine@example.com,Data Analyst,Finance,65,Data Governance,Beginner,1,,Online,Data Management,10,4,Data Governance Implementation,2025-11-01
+35,Daniel Kim,daniel@example.com,Full Stack Developer,IT,66,GraphQL,Advanced,4,,Online,Web Development,20,4.8,GraphQL API Implementation,2025-11-15
+35,Daniel Kim,daniel@example.com,Full Stack Developer,IT,67,MongoDB,Beginner,1,,Online,Database Management,12,4.2,MongoDB Database Design,2025-12-01
+36,Sophie Allen,sophie@example.com,Machine Learning Engineer,Technology,68,Computer Vision,Intermediate,2,,Online,Artificial Intelligence,15,4.5,Computer Vision Project,2025-12-15
+36,Sophie Allen,sophie@example.com,Machine Learning Engineer,Technology,69,Natural Language Generation,Advanced,3,,Online,Artificial Intelligence,18,4.7,Text Generation Research,2026-01-01
+37,Max Lopez,max@example.com,Cloud Solutions Architect,IT,70,Cloud Automation,Advanced,4,,Online,Cloud Computing,25,4.8,Cloud Automation Framework,2026-01-15
+37,Max Lopez,max@example.com,Cloud Solutions Architect,IT,71,Serverless Computing,Beginner,1,,Online,Cloud Computing,18,4.7,Serverless Architecture Design,2026-02-01
+38,Ella Roberts,ella@example.com,Data Engineer,Technology,72,Airflow,Intermediate,2,,Online,Big Data,15,4.2,Apache Airflow Workflow,2026-02-15
+38,Ella Roberts,ella@example.com,Data Engineer,Technology,73,ETL Processes,Beginner,1,,Online,Big Data,12,4,ETL Implementation,2026-03-01
+39,Connor Hughes,connor@example.com,UI/UX Designer,Design,74,Accessibility Design,Intermediate,2,,Online,Design,12,4.2,Accessibility Improvement Project,2026-03-15
+39,Connor Hughes,connor@example.com,UI/UX Designer,Design,75,User Flow Design,Beginner,1,,Online,Design,8,3.5,User Flow Redesign,2026-04-01
+40,Mia Davis,mia@example.com,Software Tester,IT,76,Performance Testing,Advanced,4,,Online,Quality Assurance,20,4.5,Performance Testing Strategy,2026-04-15
+40,Mia Davis,mia@example.com,Software Tester,IT,77,Automated Test Scripts,Intermediate,2,,Online,Quality Assurance,15,4.2,Automated Testing Framework,2026-05-01
+41,Jacob Smith,jacob@example.com,Network Administrator,IT,78,Network Load Balancing,Beginner,1,,Online,Networking,8,3.5,Load Balancer Configuration,2026-05-15
+41,Jacob Smith,jacob@example.com,Network Administrator,IT,79,Routing and Switching,Intermediate,2,,Online,Networking,12,4,Network Routing Optimization,2026-06-01
+42,Aria Martinez,aria@example.com,Database Developer,IT,80,PostgreSQL,Advanced,5,,Online,Database Management,25,4.8,PostgreSQL Database Design,2026-06-15
+42,Aria Martinez,aria@example.com,Database Developer,IT,81,Database Transactions,Intermediate,3,,Online,Database Management,18,4.7,Transaction Management,2026-07-01
+43,Leah Garcia,leah@example.com,Software Engineer,IT,82,Vue.js,Beginner,1,,Online,Web Development,10,4,Vue.js Web App,2026-07-15
+43,Leah Garcia,leah@example.com,Software Engineer,IT,83,RESTful APIs,Intermediate,2,,Online,Web Development,12,4.2,API Integration Project,2026-08-01
+44,Ryan Nguyen,ryan@example.com,Data Scientist,Technology,84,Machine Learning Pipelines,Advanced,3,,Online,Data Science,18,4.7,Machine Learning Pipeline Optimization,2026-08-15
+44,Ryan Nguyen,ryan@example.com,Data Scientist,Technology,85,Natural Language Processing,Beginner,1,,Online,Data Science,10,4,Text Analysis Project,2026-09-01
+45,Emma Turner,emma@example.com,IT Manager,IT,86,IT Governance,Advanced,6,IT Management Certification,Online,Management,25,4.8,IT Governance Strategy,2026-09-15
+45,Emma Turner,emma@example.com,IT Manager,IT,87,IT Risk Management,Intermediate,3,,Online,Management,15,4.2,IT Risk Assessment,2026-10-01
+46,James Brooks,james@example.com,Frontend Developer,IT,88,Angular,Advanced,4,,Online,Web Development,20,4.7,Angular Web App,2026-10-15
+46,James Brooks,james@example.com,Frontend Developer,IT,89,Responsive Design,Intermediate,2,,Online,Web Development,12,4.2,Responsive Design Project,2026-11-01
+47,Ashley White,ashley@example.com,DevOps Engineer,IT,90,Kubernetes,Beginner,1,,Online,DevOps,10,4,Kubernetes Deployment,2026-11-15
+47,Ashley White,ashley@example.com,DevOps Engineer,IT,91,Docker,Intermediate,2,,Online,DevOps,12,4.2,Docker Containerization Project,2026-12-01
+48,Lucas Robinson,lucas@example.com,Full Stack Developer,IT,92,Node.js,Beginner,1,,Online,Web Development,8,3.5,Node.js Project,2026-12-15
+48,Lucas Robinson,lucas@example.com,Full Stack Developer,IT,93,Express.js,Intermediate,2,,Online,Web Development,10,4,Express.js API Development,2027-01-01
+49,Aria Wang,aria@example.com,Machine Learning Engineer,Technology,94,Computer Vision,Advanced,3,,Online,Artificial Intelligence,15,4.5,Computer Vision Project,2027-01-15
+49,Aria Wang,aria@example.com,Machine Learning Engineer,Technology,95,Natural Language Generation,Beginner,1,,Online,Artificial Intelligence,12,4.2,Text Generation Project,2027-02-01
+50,Matthew Hall,matthew@example.com,Cloud Solutions Architect,IT,96,AWS Lambda,Advanced,4,AWS Certified Solutions Architect,Online,Cloud Computing,18,4.7,Serverless Architecture Design,2027-02-15
+50,Matthew Hall,matthew@example.com,Cloud Solutions Architect,IT,97,Azure Functions,Intermediate,2,,Online,Cloud Computing,12,4,Serverless Function Deployment,2027-03-01
+51,Sophie Foster,sophie@example.com,Data Engineer,Technology,98,Apache Kafka,Beginner,1,,Online,Big Data,8,3.5,Kafka Data Streaming,2027-03-15
+51,Sophie Foster,sophie@example.com,Data Engineer,Technology,99,ETL Processes,Intermediate,2,,Online,Big Data,10,4,ETL Implementation,2027-04-01
+52,Liam Bell,liam@example.com,UI/UX Designer,Design,100,Wireframing,Beginner,1,,Online,Design,12,4.2,Wireframe Design Project,2027-04-15
+52,Liam Bell,liam@example.com,UI/UX Designer,Design,101,User Research,Intermediate,2,,Online,Design,15,4.8,User Research Project,2027-05-01
+53,Olivia Turner,olivia@example.com,Software Tester,IT,102,Test Automation,Advanced,4,,Online,Quality Assurance,20,4.8,Test Automation Framework,2027-05-15
+53,Olivia Turner,olivia@example.com,Software Tester,IT,103,Performance Testing,Beginner,1,,Online,Quality Assurance,15,4.2,Performance Testing Project,2027-06-01
+54,Mason Garcia,mason@example.com,Network Administrator,IT,104,CCNP Certification,Intermediate,2,CCNP Certification,Books,Networking,12,4,Advanced Networking Configuration,2027-06-15
+54,Mason Garcia,mason@example.com,Network Administrator,IT,105,WAN Optimization,Advanced,3,,Online,Networking,18,4.7,WAN Optimization Project,2027-07-01
+55,Hannah Patel,hannah@example.com,Database Developer,IT,106,Microsoft SQL Server,Advanced,5,,Online,Database Management,25,4.8,SQL Server Database Design,2027-07-15
+55,Hannah Patel,hannah@example.com,Database Developer,IT,107,Database Query Optimization,Intermediate,3,,Online,Database Management,18,4.7,Query Performance Tuning,2027-08-01
+56,Dylan Lewis,dylan@example.com,Security Analyst,IT,108,Penetration Testing,Advanced,4,Certified Ethical Hacker,Online,Security,20,4.5,Security Penetration Testing,2027-08-15
+56,Dylan Lewis,dylan@example.com,Security Analyst,IT,109,Incident Response,Beginner,1,,Online,Security,15,4.2,Incident Handling Project,2027-09-01
+57,Ava Brooks,ava@example.com,UI/UX Designer,Design,110,User Interface Design,Intermediate,2,,Online,Design,12,4,User Interface Design Project,2027-09-15
+57,Ava Brooks,ava@example.com,UI/UX Designer,Design,111,Prototyping,Beginner,1,,Online,Design,10,3.5,Prototyping Project,2027-10-01
+58,Luke Taylor,luke@example.com,Software Engineer,IT,112,ReactJS,Advanced,4,,Online,Web Development,18,4.7,React Web App,2027-10-15
+58,Luke Taylor,luke@example.com,Software Engineer,IT,113,TypeScript,Intermediate,2,,Online,Programming,15,4.2,TypeScript Project,2027-11-01
+59,Stella Martinez,stella@example.com,Data Scientist,Technology,114,Big Data Analytics,Advanced,3,,Online,Big Data,20,4.5,Big Data Analytics Project,2027-11-15
+59,Stella Martinez,stella@example.com,Data Scientist,Technology,115,Statistical Analysis,Beginner,1,,Online,Data Science,12,4,Statistical Analysis Project,2027-12-01
+60,David Hill,david@example.com,IT Manager,IT,116,IT Leadership,Advanced,6,IT Management Certification,Online,Management,25,4.8,IT Leadership Strategy,2027-12-15
+60,David Hill,david@example.com,IT Manager,IT,117,IT Governance,Intermediate,3,,Online,Management,18,4.7,IT Governance Implementation,2028-01-01
+61,Isabella Wood,isabella@example.com,Frontend Developer,IT,118,Vue.js,Beginner,1,,Online,Web Development,8,3.5,Vue.js Web App,2028-01-15
+61,Isabella Wood,isabella@example.com,Frontend Developer,IT,119,Responsive Design,Intermediate,2,,Online,Web Development,12,4.2,Responsive Design Project,2028-02-01
+62,Ethan Adams,ethan@example.com,DevOps Engineer,IT,120,Kubernetes,Advanced,4,,Online,DevOps,18,4.7,Kubernetes Deployment,2028-02-15
+62,Ethan Adams,ethan@example.com,DevOps Engineer,IT,121,Docker,Beginner,1,,Online,DevOps,12,4,Docker Containerization Project,2028-03-01
+63,Chloe Lewis,chloe@example.com,Full Stack Developer,IT,122,Node.js,Beginner,1,,Online,Web Development,10,4,Node.js Project,2028-03-15
+63,Chloe Lewis,chloe@example.com,Full Stack Developer,IT,123,Express.js,Intermediate,2,,Online,Web Development,12,4.2,Express.js API Development,2028-04-01
+64,Nathan Miller,nathan@example.com,Machine Learning Engineer,Technology,124,Computer Vision,Advanced,3,,Online,Artificial Intelligence,15,4.5,Computer Vision Project,2028-04-15
+64,Nathan Miller,nathan@example.com,Machine Learning Engineer,Technology,125,Natural Language Generation,Beginner,1,,Online,Artificial Intelligence,12,4.2,Text Generation Project,2028-05-01
+65,Audrey Turner,audrey@example.com,Cloud Solutions Architect,IT,126,AWS Lambda,Advanced,4,AWS Certified Solutions Architect,Online,Cloud Computing,18,4.7,Serverless Architecture Design,2028-05-15
+65,Audrey Turner,audrey@example.com,Cloud Solutions Architect,IT,127,Azure Functions,Intermediate,2,,Online,Cloud Computing,12,4,Serverless Function Deployment,2028-06-01
+66,Logan Garcia,logan@example.com,Data Engineer,Technology,128,Apache Kafka,Beginner,1,,Online,Big Data,8,3.5,Kafka Data Streaming,2028-06-15
+66,Logan Garcia,logan@example.com,Data Engineer,Technology,129,ETL Processes,Intermediate,2,,Online,Big Data,10,4,ETL Implementation,2028-07-01
+67,Aria Rogers,aria@example.com,UI/UX Designer,Design,130,Wireframing,Beginner,1,,Online,Design,12,4.2,Wireframe Design Project,2028-07-15
+67,Aria Rogers,aria@example.com,UI/UX Designer,Design,131,User Research,Intermediate,2,,Online,Design,15,4.8,User Research Project,2028-08-01
